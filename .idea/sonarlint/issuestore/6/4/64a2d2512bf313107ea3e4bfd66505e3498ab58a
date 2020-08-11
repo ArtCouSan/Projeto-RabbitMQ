@@ -1,0 +1,7 @@
+
+
+java:S1128"dRemove this unused import 'org.springframework.amqp.rabbit.listener.SimpleMessageListenerContainer'.(Œ¥œ8³ë“…½.
+
+java:S1128	"dRemove this unused import 'org.springframework.amqp.rabbit.listener.adapter.MessageListenerAdapter'.(Ú“ã8³ë“…½.
+{
+java:S1128"YRemove this unused import 'org.springframework.amqp.rabbit.connection.ConnectionFactory'.(ĞÛ¯Ïşÿÿÿÿ8³ë“…½.

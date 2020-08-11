@@ -1,0 +1,20 @@
+
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ê¨õøÿÿÿÿ8²©ÀÓ½.
+m	java:S117="QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É‡ƒ8²©ÀÓ½.
+Q
+java:S1128"5Remove this unused import 'javax.persistence.Column'.(ìûæH8²©ÀÓ½.
+N
+java:S1128"1Remove this unused import 'javax.persistence.Id'.(ş¹ŞÜ8²©ÀÓ½.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úİ½şÿÿÿÿÿ8²©ÀÓ½.
+o	java:S116"SRename this field "id_drone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂóÙ8²©ÀÓ½.
+K
+java:S1948")Make "umidade" transient or serializable.(²Òì”üÿÿÿÿ8²©ÀÓ½.
+J
+java:S1948"-Make "temperatura" transient or serializable.(œÿëô8²©ÀÓ½.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úİ½şÿÿÿÿÿ8²©ÀÓ½.
+G
+java:S1948"*Make "id_drone" transient or serializable.(ÂóÙ8šè¢Ó½.
+G
+java:S1948"*Make "latitude" transient or serializable.(Ä÷®8šè¢Ó½.
+M
+java:S1948"+Make "longitude" transient or serializable.(Ğáµıùÿÿÿÿ8šè¢Ó½.

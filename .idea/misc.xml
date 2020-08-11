@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/core" />
+    <file type="web" url="file://$PROJECT_DIR$/microservice_b" />
   </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
@@ -10,6 +10,8 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/core/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice_a/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice_b/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,0 +1,10 @@
+
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ê¨õøÿÿÿÿ8üÃ¤Ö½.
+I
+java:S1948",Make "rastreando" transient or serializable.(äƒÀ‰8¥ú£Ö½.
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úİ½şÿÿÿÿÿ8üÃ¤Ö½.
+o	java:S116"SRename this field "id_drone" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÂóÙ8›£Ö½.
+m	java:S117 "QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì§õ€8‘¥Ö½.
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(úİ½şÿÿÿÿÿ8üÃ¤Ö½.
+G
+java:S1948"*Make "id_drone" transient or serializable.(ÂóÙ8›£Ö½.
