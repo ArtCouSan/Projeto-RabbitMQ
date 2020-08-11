@@ -29,8 +29,7 @@ public class Schedule {
         this.emailSender = emailSender;
     }
 
-//    @Scheduled(cron = "0 1 * * * *")
-    @Scheduled(cron = "30 * * * * *")
+    @Scheduled(cron = "0 1 * * * *")
     public void sendMail() throws JsonProcessingException {
 
         Optional<String> data = Optional.empty();

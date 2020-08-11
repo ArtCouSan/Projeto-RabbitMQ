@@ -51,3 +51,7 @@ G
 microservice_b/mvnw.cmd,e\2\e29b8e742068c53f2d8a58fba51bf3fba94a392c
 F
 microservice_b/pom.xml,0\0\00ef85e88349a4f8edcb69c112d245785c58123f
+†
+Vmicroservice_b/src/main/java/br/com/microservice_b/endpoint/services/DroneService.java,7\f\7f91b0123230926bd38b59f39eafdd0957f2a3b5
+‚
+Rmicroservice_b/src/main/java/br/com/microservice_b/endpoint/config/CorsConfig.java,3\1\3115e05f7e44caa9e6e7a6cc3ccca0d40360f86e
