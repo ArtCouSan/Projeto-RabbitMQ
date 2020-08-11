@@ -21,7 +21,7 @@ VIDEO: https://www.youtube.com/watch?v=kOyy6dhqfq0&feature=youtu.be
 
 - Colocar sua chave de registro para API google de mail no microservico a
 
-- 1ª opção:  Abrir os projetos e instalar as dependencias, nesse cenario ter o RabbitMQ instalador com as portas do docker-compose
+- 1ª opção:  Abrir os projetos e instalar as dependencias, nesse cenario ter o RabbitMQ instalado com as portas do docker-compose liberadas
 - 2ª opção:  Ir na raiz e executar o docker-compose up -d
 
 
